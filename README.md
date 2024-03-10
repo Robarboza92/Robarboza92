@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rodrigo Barboza
+- 👋 Hi, I’m Rodrigo Barboza.
 - 👀 I’m interested in learn and jobs.
 - 🌱 I’m currently learning web development, html, css, JavaScript, Git, Github, Figma.
 - 💞️ I’m looking to collaborate on projects.
